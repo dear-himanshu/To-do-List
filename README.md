@@ -8,6 +8,6 @@ Note: Search bar is under development.
 
 ![](https://github.com/dear-himanshu/To-do-List/blob/main/image.png?raw=true)
 
-# View on Mobile 🖥️
+# View on Mobile  📱
 
 ![](https://github.com/dear-himanshu/To-do-List/blob/main/mobile_ss.jpeg?raw=true)
